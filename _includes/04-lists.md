@@ -1,3 +1,3 @@
-[] Programming
-[] Sport
-[] IT
+- Programming
+- Sport
+- IT
