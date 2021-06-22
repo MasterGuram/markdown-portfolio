@@ -1,4 +1,3 @@
-
 _Russian_
 _English_
 _Georgian_
